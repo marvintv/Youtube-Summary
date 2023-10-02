@@ -1,6 +1,6 @@
 # YouTube Video Summarizer 🎥
 
-This is a Streamlit web application that allows users to summarize YouTube videos. It's built using the Llama 2 🦙 model, Haystack, Streamlit, and lots of ❤️. 
+This is a Streamlit web application that allows users to summarize YouTube videos. It's built using the Llama 2 🦙 model, Haystack, and Streamlit
 
 ## About the App
 
