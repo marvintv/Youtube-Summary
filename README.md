@@ -5,7 +5,7 @@ This is a Streamlit web application that allows users to summarize YouTube video
 ## About the App
 
 - Simply enter a YouTube URL in the input box and click 'Submit' to start summarizing the video.
-- The app utilizes advanced AI models to transcribe and summarize the audio content of the video.
+- The app utilizes advanced LLM models to transcribe and summarize the audio content of the video.
 
 ## How to Use
 
